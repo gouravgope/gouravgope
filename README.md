@@ -13,8 +13,9 @@
 
 # NOTION, HASHNODE & SHASTRARTHA
 1. https://gouravgop.notion.site/GOURAV-GOPE-PUBLIC-NOTION-2dc0310e319e816b8c4ef382e5e37597##
-2. https://gouravgope.hashnode.dev/##
-3. SHASTRATHA :
+2. blogs : https://gouravgope.hashnode.dev/##
+3. hashnodedocs :
+4. SHASTRATHA :
 
 
 # REDDIT, LEMMY & VERSYTALKS
