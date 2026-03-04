@@ -1,5 +1,12 @@
 ## Hi Gourav Gope Webpage👋
 
+
+
+
+#BLOGS [ BLOGGER, HASHNODE, QUORA & VERSYTALKS]
+
+https://www.blogger.com/profile/03428742790839215447##
+
 <!--
 **gouravgope/gouravgope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
