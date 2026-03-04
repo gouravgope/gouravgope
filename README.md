@@ -9,6 +9,7 @@
 https://www.blogger.com/profile/03428742790839215447##
 https://medium.com/@gouravgope#
 https://gouravgope.hashnode.dev/##
+https://www.versytalks.com/profile/gouravgope#
 
 [ X, INSTA, YT, LBRY/ODYSEEY]
 https://x.com/gouravgopeyadav#
