@@ -7,17 +7,20 @@
 ## BLOGS &SOCIAL MEDIA 
 
 # [ BLOGGER,QUORA, MEDIUM]
-https://www.blogger.com/profile/03428742790839215447##
-https://medium.com/@gouravgope#
-https://gouravgope.hashnode.dev/##
+1. https://www.blogger.com/profile/03428742790839215447##
+2. https://medium.com/@gouravgope#
+3. https://gouravgope.hashnode.dev/##
 
-# NOTION, HASHNODE, VERSY & SHASTRARTHA
-https://gouravgop.notion.site/GOURAV-GOPE-PUBLIC-NOTION-2dc0310e319e816b8c4ef382e5e37597##
-https://gouravgope.hashnode.dev/##
+# NOTION, HASHNODE & SHASTRARTHA
+1. https://gouravgop.notion.site/GOURAV-GOPE-PUBLIC-NOTION-2dc0310e319e816b8c4ef382e5e37597##
+2. https://gouravgope.hashnode.dev/##
+3. SHASTRATHA :
 
 
 # REDDIT, LEMMY & VERSYTALKS
-https://www.versytalks.com/profile/gouravgope#
+1. https://www.versytalks.com/profile/gouravgope#
+2. LEMMY :
+3. VERSYTALKS :
 
 # [ X, INSTA, YT, LBRY/ODYSEEY]
 https://x.com/gouravgopeyadav#
