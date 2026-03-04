@@ -1,4 +1,4 @@
-## Hi Gourav Gope Webpage👋
+## Gourav Gope Webpage In Plance HTML, CSS & JS👋
 
 
 
@@ -23,10 +23,14 @@
 3. VERSYTALKS :
 
 # [ X, INSTA, YT, LBRY/ODYSEEY]
-https://x.com/gouravgopeyadav#
-https://www.instagram.com/gouravgopeyadav/##
+1. https://x.com/gouravgopeyadav#
+2. https://www.instagram.com/gouravgopeyadav/##
+3. YT :
+4. LBRY/ODYSEE :
 
 ------------------------------------------------------
+DEPLOYMENT : CLOUDFLAIR
+
 
 <!--
 **gouravgope/gouravgope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
