@@ -23,8 +23,8 @@ WEBAPP [ UNDER DEVELOPMENT]
 3. VERSYTALKS :https://www.versytalks.com/profile/gouravgope#
 
 # [ X, INSTA, YT, LBRY/ODYSEEY]
-1. https://x.com/gouravgopeyadav#
-2. https://www.instagram.com/gouravgopeyadav/##
+1. X : https://x.com/gouravgopeyadav#
+2. GG : https://www.instagram.com/gouravgopeyadav/##
 3. YT :
 4. LBRY/ODYSEE :
 
