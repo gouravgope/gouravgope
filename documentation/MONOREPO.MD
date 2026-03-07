@@ -25,3 +25,7 @@ CONS
 ----------------------------------------------
 #conclusion
 Ultimately, the best approach depends on your specific project needs and team size. Many developers start with a single repository and only split them into separate repos as the project grows in complexity and the team expands.
+-----------------------------------------------
+-----------------------------------------------
+# REFERENCES
+https://github.com/orgs/community/discussions/174352#
