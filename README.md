@@ -18,9 +18,9 @@ WEBAPP [ UNDER DEVELOPMENT]
 
 
 # REDDIT, LEMMY & VERSYTALKS
-1. https://www.versytalks.com/profile/gouravgope#
-2. LEMMY :
-3. VERSYTALKS :
+1. reddit : https://www.reddit.com/user/gouravgope/ & 
+2. LEMMY : 
+3. VERSYTALKS :https://www.versytalks.com/profile/gouravgope#
 
 # [ X, INSTA, YT, LBRY/ODYSEEY]
 1. https://x.com/gouravgopeyadav#
