@@ -17,6 +17,10 @@ PROS
 
 ---------------------------
 CONS
+1. Complex CI/CD Setting up separate continuous integration/continuous deployment (CI/CD) pipelines for each part can be more complex.
+2. Potential for Coupling Tightly coupled code might make it harder to scale or reuse the backend for other projects (e.g., a separate mobile app).
+3. Performance The build process might run tests for the entire application even if only one part has changed, potentially slowing things down.
+4. Branching Challenges Can complicate things if separate teams need to release on independent schedules.
 ----------------------------------------------
 ----------------------------------------------
 #conclusion
