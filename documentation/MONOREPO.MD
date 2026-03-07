@@ -6,9 +6,18 @@ The most common and clean way is to use a folder-based structure within your sin
 Create a root folder for your project.
 Inside, have separate directories for each part, such as frontend/ and backend/.
 Each directory should have its own dependencies and configuration files (e.g., separate package.json files for Node.js projects). 
+---------------------------------------------
+----------------------------------------------
+PROS
+1. Simplified Workflow Managing related frontend and backend changes in a single commit and pull request makes development easier.
+2. Code Sharing It's easier to share code, such as API types or validation logic, between the frontend and backend.
+3. Easier Syncing Ensures that the frontend and backend are always in sync and compatible, preventing runtime errors due to mismatched API versions.
+4. Easier for Solo Developers/Small Teams Reduces overhead of managing multiple repositories and coordinating deployments.
 
 
-
+---------------------------
+CONS
+----------------------------------------------
 ----------------------------------------------
 #conclusion
 Ultimately, the best approach depends on your specific project needs and team size. Many developers start with a single repository and only split them into separate repos as the project grows in complexity and the team expands.
