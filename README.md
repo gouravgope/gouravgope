@@ -1,6 +1,6 @@
 ## Gourav Gope Webpage In Plance HTML, CSS & JS👋
 WEBAPP [ UNDER DEVELOPMENT]
-1. https://www.gouravgope.com
+1. (https://gouravgope.com/) https://www.gouravgope.com
 
 -----------------------------------------------------------------------------------
 RESEARCH & ORCID
