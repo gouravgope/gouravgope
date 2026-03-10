@@ -10,15 +10,19 @@ $(document).ready(function(){
     $('.navbar').removeClass('nav-toggle');
   });
 
-  $('.portfolio .button-container .btn').click(function(){
+
+/* Portfolio changed to "projects" on 10/3/2026 in html, css & js*/
+
+
+  $('.projects .button-container .btn').click(function(){
 
     let filter = $(this).attr('data-filter');
 
     if(filter == 'all'){
-      $('.portfolio .image-container .box').show('400')
+      $('.projects .image-container .box').show('400')
     }else{
-      $('.portfolio .image-container .box').not('.'+filter).hide('200');
-      $('.portfolio .image-container .box').filter('.'+filter).show('400');
+      $('.projects .image-container .box').not('.'+filter).hide('200');
+      $('.projects .image-container .box').filter('.'+filter).show('400');
     }
 
   });
