@@ -210,6 +210,8 @@ section{
     font-size: 2rem;
 }
 
+/* 2-ABOUT ME & EXPERIENCE */
+
 .about .row{
     display: flex;
     align-items: center;
@@ -329,6 +331,9 @@ section{
     margin:1rem;
 }
 
+
+/* 3-SERVICES & SKILLS */
+
 .services .box-container{
     display: flex;
     align-items: center;
@@ -388,6 +393,8 @@ section{
 .services .box-container .box:hover::before{
     clip-path: circle(100%);
 }
+
+/* 4-PROJECTS & CERTIFICAIONS */
 
 .projects .button-container{
     display: flex;
@@ -513,6 +520,11 @@ section{
     font-size: 1.5rem;
 }
 
+
+
+/* CONTACT ME */
+
+
 .contact .row{
     display: flex;
     justify-content: center;
@@ -613,6 +625,11 @@ section{
     font-size: 1.5rem;
     color:var(--secondary-text-color);
 }
+
+
+
+
+/* 7-FOOTER */
 
 .footer{
     padding:2.5rem 1rem;
