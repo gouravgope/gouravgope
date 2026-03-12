@@ -8,11 +8,12 @@ RESEARCH & ORCID
 
 ------------------------------------------------------------------------------------
 ## BLOGS &SOCIAL MEDIA 
-
-# [ BLOGGER,QUORA, MEDIUM]
-1. https://www.blogger.com/profile/03428742790839215447##
-2. https://medium.com/@gouravgope#
-3. https://gouravgope.hashnode.dev/##
+# [ BLOGGER,QUORA, MEDIUM & SUBSTACK]
+1. BLOGGER : https://www.blogger.com/profile/03428742790839215447##
+2. QUORA : 
+3. MEDIUM : https://medium.com/@gouravgope#
+4. SUBSTACK : 
+5. HASHNODE : https://gouravgope.hashnode.dev/##
 
 # NOTION, HASHNODE & SHASTRARTHA
 1. https://gouravgop.notion.site/GOURAV-GOPE-PUBLIC-NOTION-2dc0310e319e816b8c4ef382e5e37597##
@@ -26,11 +27,14 @@ RESEARCH & ORCID
 2. LEMMY : 
 3. VERSYTALKS :https://www.versytalks.com/profile/gouravgope#
 
-# [ X, INSTA, YT, LBRY/ODYSEEY]
+# [ X/MASTODON/BSKY, INSTA, YT/RUMBLE/LBRY/ODYSEEY]
 1. X : https://x.com/gouravgopeyadav#
+   MASTODON :
+   BSKY :
 2. GG : https://www.instagram.com/gouravgopeyadav/##
 3. YT :
-4. LBRY/ODYSEE :
+   RUMBLE :
+   LBRY/ODYSEE :
 
 ------------------------------------------------------
 DEPLOYMENT : CLOUDFLAIR
