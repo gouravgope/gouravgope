@@ -1,7 +1,9 @@
+# DISCIPLINE & PRODUCTIVITY
+
+
+# SOLUTION VS. RESULT
 A solution is the method, action, or answer used to resolve a problem, while a result is the final consequence, outcome, or output produced by that action. Solutions focus on "how" to fix an issue, whereas results are the measurable "what" that happens afterward. 
 The AIM Institute
-The AIM Institute
- +1
 Key Differences:
 Definition: A solution is a means to resolve a difficulty or answer a question (e.g., adding 5+5 is the solution to "find a sum of 10"). A result is the outcome, consequence, or product (e.g., the number 10 is the result).
 Process vs. Outcome: Solutions often refer to the process, steps, or tools implemented. Results are the ultimate, often measurable, impact or end-state.
