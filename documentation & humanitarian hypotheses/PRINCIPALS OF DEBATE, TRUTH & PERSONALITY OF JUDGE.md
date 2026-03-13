@@ -1,5 +1,5 @@
 # PRINCIPALS OF DEBATE, TRUTH, JUSTICE & PERSONALITY OF JUDGE
-P
+These principals are based upon consideration of metamodernism, science and non aggression principals.
 ## PRINCIPALS OF DEBATE
 Debate is
 
