@@ -11,9 +11,9 @@ RESEARCH & ORCID
 # [ BLOGGER,QUORA, MEDIUM & SUBSTACK]
 1. BLOGGER : https://www.blogger.com/profile/03428742790839215447##
    https://engineersechelon.blogspot.com/## [ GOURAVGOPE.COM USED TO REDIRECT TO THIS (2021 TO FEB 2026) BUT NOW IT REDIRECTS TO GG WEBAPP. 
-3. QUORA : 
+3. QUORA : https://www.quora.com/profile/Gouravgope#
 4. MEDIUM : https://medium.com/@gouravgope#
-5. SUBSTACK : 
+5. SUBSTACK : https://substack.com/@gouravgope#
 6. HASHNODE : https://gouravgope.hashnode.dev/##
 
 # NOTION, HASHNODE & SHASTRARTHA
