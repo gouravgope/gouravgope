@@ -38,10 +38,10 @@ RESEARCH & ORCID
    LBRY/ODYSEE :
 
 # CODING : GFG, LEETCODE, CODECHEF & NEETCODE
-1. LEETCODE: https://leetcode.com/u/gouravgope/#
-2. GFG :
-3. CODECHEF :
-4. NEETCODE :
+1. GFG : https://www.geeksforgeeks.org/profile/gouravgope#
+2. LEETCODE: https://leetcode.com/u/gouravgope/#
+3. NEETCODE: https://neetcode.io/profile#
+5. CODECHEF : https://www.codechef.com/users/gouravgope#
 ------------------------------------------------------
 DEPLOYMENT : CLOUDFLAIR
 
