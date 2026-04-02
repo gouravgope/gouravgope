@@ -1,4 +1,12 @@
 ## Gourav Gope Webpage In Plance HTML, CSS & JS👋
+----------------------------------------------------------------------------
+FIVE (5) ORGANIZATIONS & PROJECTS
+5.1-GG & HH ( GOURAV GOPE & HUMANITARIAN HYPOTHESES)
+5.2-EE ( ENGINEERS ECHELON & GOBOT)
+5.3-SHA ( SHASTRARTHA)
+5.4-SW, LI & FTL [ SAAMYWAAD, LIBERTARIANS & FREEDOM TO LIBERTY] 
+5.5- RI ( RETALIATOR IMMORTAL)
+-------------------------------------------------------------------------------
 WEBAPP [ UNDER DEVELOPMENT]
 1. (https://gouravgope.com/) https://www.gouravgope.com
 
