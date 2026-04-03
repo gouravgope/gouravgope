@@ -60,6 +60,9 @@ RESEARCH & ORCID
 5. CODECHEF : https://www.codechef.com/users/gouravgope#
 ------------------------------------------------------
 DEPLOYMENT : CLOUDFLAIR
+-------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+# CC, IP & PROMISE: WHATEREVER IS WRITTTEN IS INTELLECTUAL PROPERTY OF EE, SHA, FTL, U, RI [ENGINEERS ECHELON, SHASTRARTHA, FREEDOM TO LIBERTY, UNBIASED & RETALIATOR IMMORTAL]. IF YOU ARE USING THE IDEAS FOR TEACHING THEN JUST GIVE CRET BUT IF YOU ARE MAKING PROFIT FROM IT THEN SIGN A CONTRACT WITH GOBOT.
 
 
 <!--
