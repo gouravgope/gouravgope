@@ -1,4 +1,4 @@
-# 37 & CGP
+# 37&CGP [LICENSE]
 ## Gourav Gope Webpage In Plance HTML, CSS & JS👋
 ----------------------------------------------------------------------------
 ## FIVE (5) ORGANIZATIONS & PROJECTS
@@ -64,8 +64,8 @@ DEPLOYMENT : CLOUDFLAIR
 -------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------
 # CC, IP & PROMISE: WHATEREVER IS WRITTTEN IS INTELLECTUAL PROPERTY OF EE, SHA, FTL, U, RI [ENGINEERS ECHELON, SHASTRARTHA, FREEDOM TO LIBERTY, UNBIASED & RETALIATOR IMMORTAL]. IF YOU ARE USING THE IDEAS FOR TEACHING THEN JUST GIVE CREDIT BUT IF YOU ARE MAKING PROFIT FROM IT THEN SIGN A CONTRACT WITH GOBOT.
-
-
+--------------------------------------------------------------------------------------------------------------------------------
+# 37&CGP [LICENSE]
 <!--
 **gouravgope/gouravgope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
