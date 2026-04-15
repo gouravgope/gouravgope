@@ -1,7 +1,7 @@
 # 37CGP [LICENSE, CONTRACT, PRO & CERTIFICATE]
 ## Gourav Gope Webpage In Plance HTML, CSS & JS👋
 ----------------------------------------------------------------------------
-## FIVE (5) ORGANIZATIONS & PROJECTS
+## SEVEN (7) ORGANIZATIONS, PROJECTS & CONTRIBUTIONS
 5.1- GG & HH ( GOURAV GOPE & HUMANITARIAN HYPOTHESES)
 5.2- EE ( ENGINEERS ECHELON & GOBOT)
 5.3- SHA ( SHASTRARTHA)
