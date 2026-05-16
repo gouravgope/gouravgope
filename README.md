@@ -1,6 +1,9 @@
 # 37CGP [LICENSE, CONTRACT, PRO & CERTIFICATE]
 ## Gourav Gope Webpage In Plance HTML, CSS & JS👋
 ## 
+GOURAV GOPE ORGNIZATION [https://github.com/gouravgop#]
+GOURAV GOPE YADAV GITHUB
+
 
 ----------------------------------------------------------------------------
 ## SEVEN (7) ORGANIZATIONS, PROJECTS & CONTRIBUTIONS
