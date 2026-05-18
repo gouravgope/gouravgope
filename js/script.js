@@ -1,3 +1,5 @@
+/* Portfolio changed to "projects" on 10/3/2026 in html, css & js & 37CGP PUBLIC LICENSE */
+
 $(document).ready(function(){
 
   $('#menu').click(function(){
@@ -11,7 +13,7 @@ $(document).ready(function(){
   });
 
 
-/* Portfolio changed to "projects" on 10/3/2026 in html, css & js*/
+/* Portfolio changed to "projects" on 10/3/2026 in html, css & js & 37CGP PUBLIC LICENSE */
 
 
   $('.projects .button-container .btn').click(function(){
@@ -50,3 +52,4 @@ $(document).ready(function(){
   });
 
 });
+/* Portfolio changed to "projects" on 10/3/2026 in html, css & js & 37CGP PUBLIC LICENSE */
