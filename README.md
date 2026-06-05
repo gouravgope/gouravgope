@@ -29,7 +29,7 @@ RESEARCH & ORCID
 # [ X, INSTA, YT, LBRY/ODYSEEY]
 1. X : https://x.com/gouravgopeyadav#
 2. GG : https://www.instagram.com/gouravgopeyadav/##
-3. YT :
+3. YT : https://www.youtube.com/@gouravgopeyadav##
 4. LBRY/ODYSEE :
 
 ------------------------------------------------------
